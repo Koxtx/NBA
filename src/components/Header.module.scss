@@ -1,0 +1,28 @@
+.header {
+  background-color: #0c1b3b;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  border-bottom: 2px solid orange;
+
+  .headerTitle {
+    color: orange;
+    font-size: 30px;
+    margin-right: 70.3%;
+  }
+  .headerBtn {
+    color: #0c1b3b;
+    background-color: orange;
+    border-color: orange;
+    width: 80px;
+  }
+  .headerBtnAll {
+    color: orange;
+    background-color: #0c1b3b;
+    border-color: orange;
+    width: 80px;
+  }
+}
